@@ -66,3 +66,13 @@ function now() { [native code] } , GET , /api/users1723806869019, GET, /api/user
 1723964269073, ::1 POST, /api/users
 
 1723964288058, ::1 DELETE, /api/users/66c19b6d2dd111c60c084f63
+
+1724052642641:GET: /api/users
+
+1724059530633:GET: /api/users
+
+1724060197322:GET: /api/users
+
+1724060198837:GET: /api/users
+
+1724060281768:POST: /api/users
